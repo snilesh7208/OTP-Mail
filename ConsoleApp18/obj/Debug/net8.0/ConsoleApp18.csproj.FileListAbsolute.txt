@@ -1,0 +1,14 @@
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.exe
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.deps.json
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.runtimeconfig.json
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.dll
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.pdb
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.AssemblyInfo.cs
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.dll
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\refint\ConsoleApp18.dll
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.pdb
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.genruntimeconfig.cache
+C:\Users\DELL\Downloads\nilesh\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ref\ConsoleApp18.dll
